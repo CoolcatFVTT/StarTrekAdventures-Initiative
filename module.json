@@ -43,6 +43,6 @@
 	},
 	"license": "LGPL 3.0",
 	"url": "https://github.com/CraftyAF/StarTrekAdventures-Initiative",
-	"manifest": "https://raw.githubusercontent.com/CraftyAF/StarTrekAdventures-Initiative/Releases/Latest/module.json",
+	"manifest": "https://raw.githubusercontent.com/CraftyAF/StarTrekAdventures-Initiative/main/module.json",
 	"download": "https://github.com/CraftyAF/StarTrekAdventures-Initiative/archive/refs/tags/v0.2.2.zip"
 }
