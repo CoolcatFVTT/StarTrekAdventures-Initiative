@@ -1,6 +1,5 @@
 {
 	"id": "sta-initiative",
-	"name": "sta-initiative",
 	"title": "Star Trek Adventures Initiative",
 	"description": "CombatTracker improvements for Star Trek Adventures. Depends on the 'Lancer Initiative' module by Bolts, which does most of the work.",
 	"version": "0.2.2",
