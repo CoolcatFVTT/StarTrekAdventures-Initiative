@@ -4,3 +4,6 @@ body.system-sta #combat-round > nav:nth-child(2) > a.combat-control
 {
 	display: none;
 }
+.hideInitiativeMessage {
+	display: none !important;
+}
