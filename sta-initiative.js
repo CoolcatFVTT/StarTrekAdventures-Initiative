@@ -73,7 +73,7 @@ Hooks.on('renderChatMessage', (cm, jq) =>
 {
 	if (STAInitiative.shouldHideChatMessage(cm))
 	{
-		jq[0].style.display = 'none';
+		jq.addClass("hideInitiativeMessage");
 	}
  	else if (STAInitiative.shouldCensorChatMessage(cm))
 	{
